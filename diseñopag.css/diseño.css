@@ -1,15 +1,79 @@
 img {
-    height: 150px;
+    height: 80px;
 
     }
-#Logo {
-        height: 180px;
-    }
+
 
 body {
             
-            background-color: rgb(143, 197, 136);
+            background-color: #daf4a1;
 
 
 
+}
+
+header {
+    position: sticky;
+    height: 70px;  
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+ 
+ }
+ 
+ .etiquetas {
+margin: 20px;
+text-decoration:none;
+color: rgb(42, 42, 42);
+font-weight:bold
+ }
+
+ #fondo {
+    background-image: url("../img/fondosection.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    
+    
+ }
+
+button {
+    background-color: blanchedalmond;
+}
+
+h1,
+h2,
+h3{
+    font-family: 'Mukta', sans-serif;
+}
+
+p, 
+.contacto,
+.productos{ 
+    font-weight: 300;
+    font-family: 'Mukta', sans-serif;
+
+}
+
+.container {
+    display:grid;
+    grid-template-columns: 1fr;
+}
+
+.columna2{ 
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+}
+
+.columna3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.columnadeimagenes{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    
 }
