@@ -1,0 +1,30 @@
+[     
+     {   "id": 1,
+         "nombre": "Remera",
+         "precio": 2500,
+         "descripcion": "La remera es de color blanco, confeccionada en algodón suave y ligero que proporciona comodidad durante todo el día. Tiene un corte clásico de ajuste regular, lo que la hace adecuada para diversas ocasiones y estilos. En el centro del pecho, presenta un estampado sutil pero elegante: el contorno de una montaña cubierta parcialmente por nubes, todo en tonos grises y azules tenues, lo que le da un aspecto tranquilo y relajado."
+     },    
+
+     {
+        "id": 2,
+        "nombre": "Pantalones",
+        "precio": 1200,
+        "descripcion": "Los pantalones son una prenda de vestir que cubre las piernas y se usa en la parte inferior del cuerpo. Pueden estar hechos de diversos materiales, como tela, denim o cuero, y vienen en una variedad de estilos y cortes, desde ajustados hasta holgados, diseñados para adaptarse a diferentes ocasiones y preferencias de moda."
+     },
+
+     {
+        "id": 3,
+        "nombre": "buzos",
+        "precio": 1800,
+        "descripcion":"Este tipo de  camperas es una inversión esencial para tu guardarropa de invierno. Ya sea que estés explorando la ciudad o disfrutando de actividades al aire libre, esta prenda te mantendrá cómodo y con estilo en todo momento.",
+        "imagen" : ""
+     },
+
+     {
+        "id": 4,
+        "nombre": "accesorios",
+        "precio": 3000,
+        "descripcion": "",
+        "imagen": ""
+     }
+    ]
